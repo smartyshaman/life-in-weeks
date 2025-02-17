@@ -1,7 +1,7 @@
 ---
 title       : My Life in Weeks
-start_date	: 1975-09-19
-end_year    : 2075
+start_date	: 1983-06-27
+end_year    : 2083
 ---
 
 👋 Hi, I'm [Anant](https://anantshiva.com). This is a map of my life, where each week I've been alive is a little box. Tap a box to see what I was doing where that week.
